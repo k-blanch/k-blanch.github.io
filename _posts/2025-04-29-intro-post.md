@@ -4,8 +4,10 @@ title: Intro Post
 categories: [content, demo]
 ---
 
-Testing Katie's intro post. The only purpose of this post is to greet you when your site comes alive for the first time.  
-This post will demonstrate some of the more common content & elements found in posts.  
+# Introduction
+
+Testing Katie's intro post for DHSI. My goal for DHSI is to learn more about the digital humanities in a collaborative setting. I'm excited to go to Montreal!  
+I like using [Google] (https://www.google.com).  
 Feel free to delete this post when you are ready to publish your first post.  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
