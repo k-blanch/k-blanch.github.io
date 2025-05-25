@@ -7,8 +7,8 @@ categories: [content, demo]
 # Introduction
 
 Testing Katie's intro post for DHSI. My goal for DHSI is to learn more about the digital humanities in a collaborative setting. I'm excited to go to Montreal!  
-I like using [Google] (https://www.google.com/).  
-![I like dogs](/assets/images/golden-retriever.jpg). 
+I like using [Google] (https://www.google.com/).
+![golden retriever (1)](https://github.com/user-attachments/assets/3e09c663-2846-40c8-b184-f20332573fec)
 
 
 ## Some great heading (h2)
